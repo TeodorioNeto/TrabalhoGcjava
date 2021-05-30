@@ -4,11 +4,10 @@ public class ConversoDeFparaC{
 	
 	double temperaturaC,temperaturaF;
 	
-	Scanner s = new Scanner(System.in);
 	
 	System.out.println("Insira a temperatura em Fahrenheit:\n");
 	
-	 temperaturaF= s.nextDouble();
+	 temperaturaF= 100;
 	
 	temperaturaC=((temperaturaF-32)/1.8);
 	
