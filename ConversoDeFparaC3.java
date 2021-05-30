@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ConversoDeFparaC{
+public class ConversoDeFparaC3{
     public static void main(String args[]) {
 	
 	double temperaturaC,temperaturaF;
